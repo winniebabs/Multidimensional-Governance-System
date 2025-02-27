@@ -9,6 +9,10 @@ requirements = []
 path = 'contracts/hyperdimensional-voting.clar'
 clarity_version = 2
 epoch = 2.5
+[contracts.interdimensional-law-enforcement]
+path = 'contracts/interdimensional-law-enforcement.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
