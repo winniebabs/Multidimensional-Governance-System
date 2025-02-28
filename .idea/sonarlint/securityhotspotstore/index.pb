@@ -11,3 +11,5 @@ Y
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 _
 /contracts/interdimensional-law-enforcement.clar,d/a/da2835e79da4767b6daa9a057f5e37efca1d01b2
+^
+.tests/interdimensional-law-enforcement.test.ts,9/2/92e0bf4c5f897244c154e65c5a4640b857d49487
